@@ -29,7 +29,7 @@ switch (time) {
     case 21:    
     case 22:
     case 23:
-        alert((time - 13) + ' часов вечера')
+        alert((time - 12) + ' часов вечера')
         break;
     case 0:
     case 24:
